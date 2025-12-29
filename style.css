@@ -1,0 +1,10 @@
+body {
+  background-color: #010101;
+  color: #F0F6FC;
+  font-family: GeistMono Nerd Font Mono;
+}
+
+div.main {
+  border-color: #4C2970;
+  border-radius: 15px;
+}
