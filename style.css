@@ -5,6 +5,15 @@ body {
 }
 
 div.main {
-  border-color: #4C2970;
+  border: 2px solid #4C2970;
   border-radius: 15px;
+}
+
+hr {
+  border: 2px solid #4C2970;
+  border-radius: 2px;
+}
+
+h2, p, hr {
+  padding: 2px;
 }
