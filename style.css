@@ -8,12 +8,24 @@ div.main {
   border: 2px solid #4C2970;
   border-radius: 15px;
 }
+div.about {
+  margin: 5px;
+  margin-left: 10px;
+}
 
 hr {
   border: 2px solid #4C2970;
   border-radius: 2px;
 }
 
-h2, p, hr {
-  padding: 2px;
+h2, h3, h4, p, hr {
+  margin: 2px;
+}
+
+a {
+  color: #F0F6FC;
+}
+
+p.shhh {
+  color: #010318;
 }
